@@ -16,8 +16,31 @@ A partir deste quebra-cabeça das políticas públicas de saúde do Brasil, o ob
 # As Ações
 As ações propostas para que o objetivo seja atingido estão descritas abaixo:  
 
-A- Identificar bases de dados de saúde relacionadas ao câncer de mama
-Exemplo I, Bases de dados [TabNet](http://tabnet.datasus.gov.br/) do Ministérios da Saúde (MS) 
+A- A identificação das bases de dados do meio ambiente relacionadas ao escopo pedido:
+•	Código Florestal: o órgão tomado como referência na disponibilização de dados referentes ao tema é o próprio Serviço Florestal Brasileiro  (SFB). O SFB é responsável pelas seguintes bases de dados:
+o	Cadastro Ambiental Rural (CAR):  documentos com informações sobre o andamento desta política, onde são compilados dados sobre o cadastramento em diferentes esferas: por região, estado e município. Disponível em: http://www.florestal.gov.br/numeros-do-car.
+o	Cadastro Nacional de Florestas Públicas (CNFP): instrumento de planejamento da gestão florestal, que reúne dados georreferenciados sobre as florestas públicas brasileiras. Disponível em http://www.florestal.gov.br/cadastro-nacional-de-florestas-publicas.
+o	Relatório técnico Novo Código Florestal nos Estados da Mata Atlântica (publicado pela SOS Mata Atlântica). Disponível em: https://www.sosma.org.br/downloads/index.php.
+•	Concessões Florestais;
+o	A Lei nº 11.284/2006  é o marco legal para a realização das concessões, enquanto o Decreto nº 6.063/2007, que regulamenta a Lei.
+o	O Sistema de Cadeia de Custódia (SCC) é o conjunto de procedimentos adotados para o rastreamento dos produtos florestais madeireiros explorados nas áreas sob concessão florestal.  
+	Para consulta de madeira em toras transportadas da floresta para a serraria utilizando o código de barras do DOF: https://sistemas.florestal.gov.br/scc/consultascc/docsaida
+	Para consulta de madeira serrada processada pela serraria dos concessionários utilizando o código do pacote/fardo de madeira serrada https://sistemas.florestal.gov.br/scc/consultascc/pacote.
+o	Processo de concessão: http://www.florestal.gov.br/processo-de-concessao. 
+•	Gestão de Unidades de Conservação: 
+o	IN ICMBio nº 05, de 15 de maio de 2008 - Dispõe sobre o procedimento administrativo para a realização de estudos técnicos e consulta pública para a criação de unidade de conservação federal;
+o	Decreto 5.758, de 13 de abril de 2006, que institui o Plano Estratégico Nacional de Áreas Protegidas.
+•	Políticas Climáticas: 
+o	Instituto Nacional de Meteorologia (INMET) é o principal responsável por fornecer dados para apoiar as atividades de ensino e pesquisa e outras aplicações em meteorologia, hidrologia, recursos hídricos, saúde pública, meio ambiente, etc. O Banco de Dados Meteorológicos para Ensino e Pesquisa (BDMEP) é o repositório direcionado para dados meteorológicos a serem utilizados. Disponível em   http://www.inmet.gov.br/portal/index.php?r=bdmep/bdmep.
+o	Política Nacional sobre Mudança do Clima: instituída em 2009 pela Lei nº 12.187, e regulamentada pelo Decreto nº 7.390/2010;
+o	Estimativas anuais de emissões de gases de efeito estufa no Brasil. Disponível em: http://www.mct.gov.br/upd_blob/0235/235580.pdf.
+•	Políticas de Combate ao Desmatamento
+o	Instituto Nacional de Pesquisas Espaciais (Inpe): dados consolidados do Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite (Prodes). Disponível em   http://www.obt.inpe.br/prodes/index.php.
+o	Indicadores do MMA:
+	Indicadores sobre Conservação da biodiversidade nos estados (http://dados.gov.br/dataset/conservacao-da-biodiversidade-nos-estados);
+	Indicadores sobre Conservação da Biodiversidade pelo manejo de espécies ameaçadas (http://dados.gov.br/dataset/conservacao-da-biodiversidade-pelo-manejo-de-especies-ameacadas-de-extincao);
+	Indicadores sobre Desmatamento na Amazônia Legal (http://dados.gov.br/dataset/desmatamento-na-amazonia-legal). 
+
 
 B- [Coletar os dados](https://github.com/GETIPUSP/dadosabertosnasaude/blob/master/BDAC/Lista_Bases) das bases de dados identificadas
 
